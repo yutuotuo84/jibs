@@ -17,7 +17,7 @@
 
 点击图中红框中的按钮，可以将全部442篇文章的信息导出到CSV文件。
 
-![CSV文件](./img/csv_file.png)
+![CSV文件](./img/csv_file.PNG)
 
 然而，文件中只有每篇文章的篇名(item title)、作者(authors)和链接(URL)，没有关键词(key words)和摘要(abstract)这些重要信息。
 
